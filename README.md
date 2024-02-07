@@ -1,2 +1,2 @@
-# el-primero.txt
-mi primer repositorio
+# el-primero
+mi primer repositorio creado en github y clonado en mi pc
